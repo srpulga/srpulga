@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Galvão-38BDAE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/galvao-eduardo/)](https://www.linkedin.com/in/galvao-eduardo/)  [![Gmail Badge](https://img.shields.io/badge/-edu.tads@outlook.com-38BDAE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edu.tads@outlook.com)](mailto:edu.tads@outlook.com)
 
-Today I'm interested in learning more about WEB Development, and loving to work with Front-End.
+I'm interested in learning more about WEB Development, and loving to work with Front-End.
 
  #OpenToWork
 
