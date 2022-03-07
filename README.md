@@ -19,9 +19,17 @@ Junior Full Stack Developer
 
 # Contact me for work or networking at
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/galvao-eduardo/" ></img> 
-<img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:edu.tads@outlook.com)"> </img>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sr_pulga/)"> </img>
+<a href="https://www.linkedin.com/in/galvao-eduardo/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/galvao-eduardo/" ></img> 
+</a>
+
+<a href="mailto:edu.tads@outlook.com">
+  <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Gmail&logoColor=white)"> </img>
+</a>
+
+<a href="https://www.instagram.com/sr_pulga/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sr_pulga/)"> </img>
+</a>
 
 
   ![Snake animation](https://github.com/srpulga/srpulga/blob/output/github-contribution-grid-snake.svg)
