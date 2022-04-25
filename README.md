@@ -30,6 +30,3 @@ Junior Full Stack Developer
 <a href="https://www.instagram.com/sr_pulga/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sr_pulga/)"> </img>
 </a>
-
-
-  ![Snake animation](https://github.com/srpulga/srpulga/blob/output/github-contribution-grid-snake.svg)
