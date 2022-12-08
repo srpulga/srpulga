@@ -1,6 +1,6 @@
 # Hi! I'm Eduardo Galvão 😁
  
-Junior Full Stack Developer
+Full Stack Developer
 
 <div style="display:flex">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srpulga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
