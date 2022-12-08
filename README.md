@@ -2,11 +2,6 @@
  
 Full Stack Developer
 
-<div style="display:flex">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srpulga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-
 # Skills
 
 <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=black"></img> 
