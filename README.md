@@ -1,6 +1,10 @@
 # Hi! I'm Eduardo Galvão 😁
  
-Full Stack Developer
+In 2021 I started my journey as a developer, and since then I have understood that being a developer is not just about writing “colored letters”, but about solving problems, optimizing operations, bringing practicality to many areas of the market. Being a developer is having the “power” to improve or make people's lives easier and that's exactly what makes me so passionate about this profession.
+
+I am a person who is always willing to learn and bring solutions rather than problems, I am curious, proactive and I love working with a team that is always growing together.
+
+So text me, let's talk. It will be a pleasure to know more about you, your company and your team.
 
 # Skills
 
