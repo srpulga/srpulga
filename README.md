@@ -22,7 +22,7 @@ So text me, let's talk. It will be a pleasure to know more about you, your compa
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/galvao-eduardo/" ></img> 
 </a>
 
-<a href="mailto:edu.tads@outlook.com">
+<a href="mailto:pulgalvao@gmail.com">
   <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Gmail&logoColor=white)"> </img>
 </a>
 
